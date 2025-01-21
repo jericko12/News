@@ -1,4 +1,4 @@
-```markdown
+
 📰 News Explorer App
 
 A modern Python desktop application for exploring, reading, and sharing news articles from around the world. Built with Tkinter and powered by NewsAPI.
