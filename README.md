@@ -1,4 +1,4 @@
-
+```markdown
 📰 News Explorer App
 
 A modern Python desktop application for exploring, reading, and sharing news articles from around the world. Built with Tkinter and powered by NewsAPI.
@@ -25,22 +25,25 @@ Prerequisites:
 Installation:
 
 1. Clone the repository:
-bash
+```bash
 git clone https://github.com/yourusername/news-explorer.git
 cd news-explorer
-
+```
 
 2. Install required packages:
-bash
+```bash
 pip install -r requirements.txt
+```
 
 3. Create a config.py file with your API key:
-python
+```python
 API_KEY = 'your_api_key_here'
+```
 
 4. Run the application:
-bash
+```bash
 python news_app.py
+```
 
 📋 Usage
 
@@ -64,11 +67,15 @@ Share Articles:
 This app uses NewsAPI for fetching news articles. Key endpoints:
 
 Everything Endpoint:
+```
 GET https://newsapi.org/v2/everything
+```
 Search through millions of articles from over 50,000 large and small news sources and blogs.
 
 Top Headlines:
+```
 GET https://newsapi.org/v2/top-headlines
+```
 Get breaking news headlines, and search news articles published by over 50,000 sources.
 
 For more details, visit the [NewsAPI Documentation](https://newsapi.org/docs/get-started).
@@ -100,13 +107,16 @@ Customization:
 🔧 Technical Details
 
 Dependencies:
+```
 newsapi-python==0.2.6
 tkinter
 Pillow==9.0.0
 requests==2.27.1
 ttkthemes==3.2.2
+```
 
 File Structure:
+```
 news-explorer/
 │
 ├── news_app.py          # Main application file
@@ -119,6 +129,7 @@ news-explorer/
 │   └── themes/       # Theme files
 │
 └── docs/             # Additional documentation
+```
 
 💡 Tips and Tricks
 
@@ -225,3 +236,4 @@ If you find this project helpful:
 Made with ❤️ by [Your Name]
 Contact: [@yourtwitter](https://twitter.com/yourtwitter)
 Project Link: [https://github.com/yourusername/news-explorer](https://github.com/yourusername/news-explorer)
+```
