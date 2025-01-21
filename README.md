@@ -3,7 +3,7 @@
 
 A modern Python desktop application for exploring, reading, and sharing news articles from around the world. Built with Tkinter and powered by NewsAPI.
 
-![News API](https://newsapi.org/images/n-logo-border.png)
+![News API](https://th.bing.com/th/id/OIP.D5azxcbg-o3AfX6fjMm_jQAAAA?rs=1&pid=ImgDetMain)
 
 🌟 Features
 
