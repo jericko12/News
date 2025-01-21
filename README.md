@@ -3,7 +3,7 @@
 
 A modern Python desktop application for exploring, reading, and sharing news articles from around the world. Built with Tkinter and powered by NewsAPI.
 
-![News API](https://newsapi.org/images/n-logo-border.png)
+![News API](https://th.bing.com/th/id/OIP.D5azxcbg-o3AfX6fjMm_jQAAAA?rs=1&pid=ImgDetMain)
 
 🌟 Features
 
@@ -26,7 +26,7 @@ Installation:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/news-explorer.git
+git clone https://github.com/jericko12/News.git
 cd news-explorer
 ```
 
@@ -233,7 +233,6 @@ If you find this project helpful:
 - Share with others
 - Make a donation
 
-Made with ❤️ by [Your Name]
-Contact: [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/news-explorer](https://github.com/yourusername/news-explorer)
-```
+Made with ❤️ by Jericko
+Contact: [@justcallme.eko](https://www.instagram.com/justcallme.eko/)
+Project Link: [https://github.com/jericko12/News](https://github.com/jericko12/News)
